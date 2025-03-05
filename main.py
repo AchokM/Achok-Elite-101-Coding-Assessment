@@ -54,4 +54,4 @@ if suitable_tables:
     for table in suitable_tables:
         print("-", table)
 else:
-    print("No suitable tables found for your party size.")
+    print("No tables found for your party size.")
